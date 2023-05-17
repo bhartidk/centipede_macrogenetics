@@ -64,6 +64,6 @@ Bharti, D. K., Pawar, P. Y., Edgecombe, G. D., & Joshi, J. (2023). Genetic diver
 ### Detailed information regarding data sources is available in the Supplementary Information associated with our manuscript:
   * Appendix S1: Mitochondrial COI accession numbers and associated sequence coordinates used for data analysis
   * Appendix S2: Centipede species traits and biogeographic variables used for data analysis
-    Available at https://doi.org/10.5281/zenodo.7940353
+Supplementary Information is available at https://doi.org/10.5281/zenodo.7940353
 
 
