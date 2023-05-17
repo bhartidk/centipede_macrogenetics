@@ -33,7 +33,7 @@ This folder contains all the tables generated using the R scripts.
 
 ## Analysis code
 
-The R scripts present in the 'scripts' folder are -
+The R scripts present in the 'scripts' folder are:
 ### 1. code01_sequence_alignment_11Apr23.R
 This code is to clean and process raw data, query accession numbers on GenBank, perform multiple sequence alignment for each species and save these files to disk.
 
@@ -59,7 +59,7 @@ This code is to resample sequence alignments for each species iteratively across
 Bharti, D. K., Pawar, P. Y., Edgecombe, G. D., & Joshi, J. (2023). Genetic diversity varies with species traits and latitude in predatory soil arthropods (Myriapoda: Chilopoda). Global Ecology and Biogeography.
 
 ### Links to other publicly accessible locations of the data:
-  * github.com/bhartidk/centipede_macrogenetics
+  * [https://datadryad.org/stash/share/Z8tG0lFyS-DBIMgLbAQqF7FNIs1n9pwciblORMsI1M0]
 
 ### Detailed information regarding data souces is available in the Supplementary Information associated with our manuscript:
   * Appendix S1: Mitochondrial COI accession numbers and associated sequence coordinates used for data analysis
