@@ -38,7 +38,7 @@ The R scripts present in the 'scripts' folder are:
 This code is to clean and process raw data, query accession numbers on GenBank, perform multiple sequence alignment for each species and save these files to disk.
 
 ### 2. code02_phylogatr_sequences_11Apr23.R
-This code is to processes phylogatr data, compare our database with the phylogatr database, look at common and different accession numbers between the two and save results.
+This code is to process phylogatr data, compare our database with the phylogatr database, look at common and different accession numbers between the two and save results.
 
 ### 3. code03_sequence_summary_11Apr23.R
 This code is to calculate sequence summaries from the multiple sequence alignment of each species, combine species trait and biogeography information and create input files for statistical analysis.
