@@ -59,7 +59,7 @@ This code is to resample sequence alignments for each species iteratively across
 Bharti, D. K., Pawar, P. Y., Edgecombe, G. D., & Joshi, J. (2023). Genetic diversity varies with species traits and latitude in predatory soil arthropods (Myriapoda: Chilopoda). Global Ecology and Biogeography.
 
 ### Links to other publicly accessible locations of the data:
-  * https://datadryad.org/stash/share/Z8tG0lFyS-DBIMgLbAQqF7FNIs1n9pwciblORMsI1M0
+  * https://doi.org/10.5061/dryad.ttdz08m3q
 
 ### Detailed information regarding data sources is available in the Supplementary Information associated with our manuscript:
   * Appendix S1: Mitochondrial COI accession numbers and associated sequence coordinates used for data analysis
